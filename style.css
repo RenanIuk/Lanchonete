@@ -1,3 +1,150 @@
-header{
-    background-color: #BE8FF5;
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.cabecario{
+
+    background-color: #c6a6eb;
+    color: black;
+    padding: 30px 0;
+
+}
+.cabecario-lista{
+    display: flex;
+    ;
+    justify-content: center
+}
+.cabecario-centro{
+    font-size: 80px;
+    display: flex;
+    justify-content: center
+
+}
+
+
+.cabecario-lista-item{
+    display: inline-block;
+    margin: 10px 256px ;
+    font-size: 60px
+}
+
+.descricao{
+    background-image: linear-gradient(#c6a6eb,#8b4aee);
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 100px;
+}
+
+.escola-div{
+    width: 75;
+    font-size: 35px;
+}
+  
+.Burguers_logo{
+    width: 100%;
+}
+
+.Cardapio-cardapio{
+    
+    background-image: linear-gradient(#c6a6eb,#8b4aee);
+    color: black;
+}
+
+.Cardapio-titulo{
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    padding: 15px 0;
+}
+
+.lanches-titulo{
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+    padding: 7px 0;
+}
+
+.x1{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 35%;
+    font-size: 30px;
+}
+.x2{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 35%;
+    font-size: 30px;
+}
+.x3{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 35%;
+    font-size: 30px;
+}
+.x4{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 35%;
+    font-size: 30px;
+}
+
+.x6{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 35%;
+    font-size: 30px;
+}
+.x7{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 35%;
+    font-size: 30px;
+}
+.B-S{
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+    padding: 10px 0;
+}
+.B1{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 35%;
+    font-size: 30px;
+}
+.B2{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 35%;
+    font-size: 30px;
+}
+.B4{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 35%;
+    font-size: 30px;
+}
+.s1{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 35%;
+    font-size: 30px;
+}
+.rodape{
+    background-image: linear-gradient(#c6a6eb,#8b4aee)
+
+}
+
+.insta {
+    width: 100px;
+    padding: 5px 28%;
+}
+.quit{
+    width: 100px;
+    padding: 5px 28p%;
 }
